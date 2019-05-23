@@ -1,2 +1,17 @@
-2018��6��4�գ�GitHub����75����Ԫ������΢����ȫ�����Ŀ�Դ������ȫ�����ı�Դ��˾�չ����ܶ࿪���߸е�������
-�����Ժ�ᷢ��ʲô��
+2018年6月4日，GitHub作价75亿美元卖给了微软。全球最大的开源社区被全球最大的闭源公司收购。很多开发者感到不安，
+静看以后会发生什么。
+--------------------------------------------------------------------------------------------------
+2019年5月22日，GitHub更新服务协议
+GitHub.com, GitHub 企业服务, 还有上传至任何一种产品的信息都可能受到美国出口管制法律的约束，这些法律包括美国出口管理条例(U.S. Export Administration Regulations EAR)。
+虽然为方便起见，我们以下信息，但是您最终有责任确保您使用GitHub的产品和服务符合所有适用的法律法规，包括美国出口管制法(US export control laws)。
+GitHub.com
+根据我们的服务条款，用户只能根据适用法律，包括美国出口控制和制裁法，访问和使用GitHub.com。
+用户有责任确保他们在GitHub.com上开发和分享的内容符合美国出口管制法(U.S. export control laws)，包括EAR和美国国际武器贸易条例(U.S. International Traffic in Arms Regulations，ITAR)。Github.com提供的云托管服务还没有经过ITAR或其他出口管制的审核，并且目前不提供按国家/地区限制存储库访问的功能。如果您希望在ITAR或其他出口控制的数据上进行协作，我们建议您考虑GitHub Enterprise Server，这是 GitHub 的本地产品。
+GitHub.com不得用于相关出口管制法律禁止的用途, 包括发展、生产或使用核武器、生物或化学武器、远程导弹或无人机有关的用途。
+根据美国外国资产控制办公室(Office of Foreign Assets Controls，OFAC)发布的授权，GitHub可能允许位于或通常居住在受美国制裁的司法管辖区的用户访问某些GitHub.com服务。在这些司法管辖区的人和居民在访问GitHub服务时，禁止使用IP代理、vpn或其他方法来伪装他们的位置，并且只能使用GitHub进行非商业的个人通信。
+根据美国和其他适用法律，特别指定国民(Specially Designated Nationals, SDN)和其他被拒绝或被封锁的人士禁止访问或使用GitHub.com。 用户不得代表此类各方使用GitHub.com，包括受制裁国家/地区的政府。
+GitHub Enterprise Server
+GitHub Enterprise Server是一个自托管的虚拟应用，可以在您自己的数据中心或虚拟私有云中运行。 因此，GitHub Enterprise Server可用于存储ITAR或其他出口控制信息，但最终用户有责任确保此类应用合规。
+GitHub Enterprise Server是一款商业化的大众市场产品，它的加密控制注册号(Encryption Control Registration Number, ECCN)是5D992.c，可以在不需要许可证(no license required, NLR)的情况下出口到大多数目的地。
+GitHub Enterprise Server不得出售，出口或再出口到EAR第740部分补充文件或乌克兰克里米亚地区的国家组E：1中列出的任何国家。 该清单目前包含古巴，伊朗，朝鲜，苏丹和叙利亚，但可能会有所变化。
+------------------------------------------------------------------------------------------------
